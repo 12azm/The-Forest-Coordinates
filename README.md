@@ -1,3 +1,3 @@
 # The-Forest-Coordinates
 
-Enjoy
+Enjoy (language = korean)
